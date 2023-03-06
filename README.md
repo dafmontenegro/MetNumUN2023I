@@ -5,4 +5,4 @@ Scientific Computing and Numerical Analysis.
 
 ## Numerical Methods 2023 I
 
-- Daniel Felipe Montenegro [linkedIn](https://www.linkedin.com/in/dafmontenegro/)
+- Daniel Felipe Montenegro. [linkedIn](https://www.linkedin.com/in/dafmontenegro/)
